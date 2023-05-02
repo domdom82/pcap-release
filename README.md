@@ -10,6 +10,8 @@ test
 
 this is a fix!
 
+this is a dependency change!
+
 ## Description
 
 The goal of this BOSH release is to provide easy access to network traffic data to both Cloud Foundry application developers and CF landscape operators. To achieve this, pcap-release implements CLI-commands to capture tcpdumps (pcap files) from multiple BOSH VMs or CF app-containers in parallel.
